@@ -1,0 +1,9 @@
+html{
+  color: #1abc9c;
+}
+
+@media (min-width: 767px) {
+  .login-form {
+    max-width: 400px;
+  }
+}
